@@ -1,0 +1,39 @@
+/* .player-info {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.player-info h2 {
+  margin-bottom: 20px;
+}
+
+.player-info p {
+  margin: 5px 0;
+} */
+
+.search-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full screen height */
+  flex-direction: column;
+}
+
+.player-info {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.player-info h2 {
+  margin-bottom: 20px;
+}
+
+.player-info p {
+  margin: 5px 0;
+}
